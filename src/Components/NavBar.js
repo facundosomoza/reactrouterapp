@@ -23,6 +23,10 @@ export default function NavBar() {
             <Link className="nav-link" to="/login">
               Log-in
             </Link>
+
+            <Link className="nav-link" to="/userlist">
+              User List
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
