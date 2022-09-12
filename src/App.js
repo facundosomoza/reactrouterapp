@@ -70,8 +70,8 @@ function App() {
           <AddUser />
         </Route>
 
-        <Route>
-          <UserList path="/userlist" app={app} />
+        <Route path="/userlist">
+          <UserList app={app} />
         </Route>
       </Switch>
     </BrowserRouter>

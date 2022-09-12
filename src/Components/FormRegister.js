@@ -79,6 +79,7 @@ export default function FormRegister({ app }) {
       console.log(uid);
 
       const newUser = {
+        uid,
         userName,
         userPhone,
         userEmail,
