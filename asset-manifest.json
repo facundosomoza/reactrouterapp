@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e43632a.css",
-    "main.js": "/static/js/main.a1a4fe28.js",
-    "index.html": "/index.html",
-    "main.6e43632a.css.map": "/static/css/main.6e43632a.css.map",
-    "main.a1a4fe28.js.map": "/static/js/main.a1a4fe28.js.map"
+    "main.css": "/reactrouterapp/static/css/main.6e43632a.css",
+    "main.js": "/reactrouterapp/static/js/main.a1a4fe28.js",
+    "index.html": "/reactrouterapp/index.html",
+    "main.6e43632a.css.map": "/reactrouterapp/static/css/main.6e43632a.css.map",
+    "main.a1a4fe28.js.map": "/reactrouterapp/static/js/main.a1a4fe28.js.map"
   },
   "entrypoints": [
     "static/css/main.6e43632a.css",
